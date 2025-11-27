@@ -1,4 +1,5 @@
-## Advanced autofish module for a custom fishing minigame
+## Advanced autofish module equipped to play a server-side fishing minigame automatically.
+- Minecraft meteor client 1.21.4 addon.
 
 
 
