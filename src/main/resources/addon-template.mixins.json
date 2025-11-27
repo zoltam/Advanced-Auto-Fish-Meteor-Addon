@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.example.addon.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "com.zoltam.autofish.mixin.ExampleMixin",
+    "com.zoltam.autofish.mixin.InGameHudMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
